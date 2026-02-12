@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+<!-- Header Section -->
+<header>
+    <h1>Angela Rose Gramatica</h1>
+    <p>
+        <a href="#">Home</a> |
+        <a href="#">Portfolio</a> |
+        <a href="#">Blogs</a> |
+        <a href="#">Contact</a>
+    </p>
+    <h2>Web Developer and Designer</h2>
+</header>
+
+<hr>
+
+<td style="border:1px solid black;">
+<tr>
+
+<td>
+    <h3>Portfolio Highlights</h3>
+    <ul>
+        <li>Responsive HTML Layout</li>
+        <li>E-commerce storefront</li>
+        <li>Event Countdown Widget</li>
+        <li>Prototype Landing Pages</li>
+    </ul>
+</td>
+
+<td>
+    <h3>Career Achievements</h3>
+    <p>
+        Frontend Developer Intern at XYZ<br>
+        Headed major product redesigns resulting in a 40% increase in user engagement
+    </p>
+    <a href="#">View My LinkedIn Profile</a>
+
+    <h3>Community Involvement</h3>
+    <p>
+        Active participant in local and online developer forums.
+    </p>
+    <a href="#">Visit My Github</a>
+</td>
+
+<td>
+    <h3>Academic Qualifications</h3>
+    <p>B.Tech (Computer Science) from ABC University</p>
+
+    <h4>Specializations:</h4>
+    <ul>
+        <li>System Analysis</li>
+        <li>Advance JavaScript Techniques</li>
+        <li>Web Accessibility Standards</li>
+        <li>Cloud Computing Infrastructure</li>
+        <li>Security in Web Applications</li>
+        <li>Advance Algorithms</li>
+    </ul>
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h3>Peer Reviews</h3>
+<td style="border:1px solid black;">
+<tr>
+<td>
+Angela Rose Gramatica consistently delivers high-quality solutions. - Steven, Project Lead
+</td>
+<td>
+His problem-solving approach was key to our success. - Sarah, Frontend Developer
+</td>
+</tr>
+</table>
+
+<td style="border:1px solid black;">
+© 2025 All Rights Reserved by Angela Rose Gramatica
+</p>
+
+</body>
+</html>
